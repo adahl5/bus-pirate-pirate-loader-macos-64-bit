@@ -1,4 +1,4 @@
-# bus-pirate-pirate-loader-macos-64-bit
+# macOS 64-bit pirate-loader for Bus Pirate
 Precompiled binaries for pirate-loader that work on 64-bit macOS
 
 Please note, I likely know the same or less about this compared to you. I'd appreciate not being blamed if your stuff breaks.
