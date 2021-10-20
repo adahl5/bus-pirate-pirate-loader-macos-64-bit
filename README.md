@@ -1,5 +1,6 @@
 # macOS 64-bit pirate-loader for Bus Pirate
 Precompiled binaries for pirate-loader that work on 64-bit macOS
+All I did was compile the code from https://github.com/BusPirate/Bus_Pirate
 
 Please note, I likely know the same or less about this compared to you. I'd appreciate not being blamed if your stuff breaks.
 
